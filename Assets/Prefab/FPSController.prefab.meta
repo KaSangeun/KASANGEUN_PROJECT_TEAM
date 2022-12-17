@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Prefab/FPSController.prefab.meta
 guid: 299cf330460f048478cce4e3bf6be085
+========
+guid: a361b55ddcff54e2fb89c82cd62f9e48
+>>>>>>>> c9321211a2dec9ff7193d18b33b9fd8241dc464a:Assets/Tree.prefab.meta
 PrefabImporter:
   externalObjects: {}
   userData: 

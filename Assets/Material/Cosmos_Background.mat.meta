@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Material/Cosmos_Background.mat.meta
 guid: 82de9ef8e16bbd94e953778ce6c5758c
+========
+guid: 6f3a09038e5ad47d7994740b299675bc
+>>>>>>>> c9321211a2dec9ff7193d18b33b9fd8241dc464a:Assets/LKW/Black.mat.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 2100000
