@@ -1,10 +1,9 @@
 fileFormatVersion: 2
-guid: 90f0a716ceed641a18b647a705be5b29
+guid: a887bcb7468b1480aa6b01fdbe9a5e25
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences:
-  - BlendTex: {fileID: 2800000, guid: b89425c5e7bf141a598cd696d29b69c4, type: 3}
+  defaultReferences: []
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
