@@ -9,7 +9,7 @@ public class updown : MonoBehaviour
     void Start()
     {
         Anim = GetComponent<Animator>();
-        Anim.SetFloat("Direction", 0f);
+        Anim.speed = 0.0f;
     }
 
     // Update is called once per frame
@@ -17,11 +17,11 @@ public class updown : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.P))
         {
-            Anim.SetFloat("Direction", 1f);
+            Anim.speed = 1.0f;
         }
         if (Input.GetKeyDown(KeyCode.S))
         {
-            Anim.SetFloat("Direction", 0f);
+            Anim.speed = 0.0f;
         }
         
     }
