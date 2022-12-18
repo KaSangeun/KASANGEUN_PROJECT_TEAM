@@ -19,6 +19,6 @@ public class MoveToKSE : MonoBehaviour
     }
     private void OnMouseDown()
     {
-        SceneManager.LoadScene("KASANGEUN_Scene");
+        SceneManager.LoadScene("Sangeun_Scene");
     }
 }
