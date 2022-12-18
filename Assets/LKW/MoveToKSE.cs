@@ -19,6 +19,6 @@ public class MoveToKSE : MonoBehaviour
     }
     private void OnMouseDown()
     {
-        SceneManager.LoadScene("kimhyewon");
+        SceneManager.LoadScene("KASANGEUN_Scene");
     }
 }
