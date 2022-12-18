@@ -5,7 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class MoveToKSE : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public Object SceneToLoad;
+
     void Start()
     {
         string sceneName = gameObject.scene.name;
