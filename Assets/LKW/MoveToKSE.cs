@@ -13,7 +13,6 @@ public class MoveToKSE : MonoBehaviour
         print(sceneName);
     }
 
-    // Update is called once per frame
     void Update()
     {
 
