@@ -31,6 +31,13 @@ public class c : MonoBehaviour
             DestroyImmediate(myMaterial);
         }
     }
+    private void OnRenderImage(RenderTexture source, RenderTexture destination)
+    {
+        myMaterial.SetFloat("_Brightness", brightness);
+        myMaterial.SetFloat("_Saturation", saturation);
+        myMaterial.SetFloat("_Contrast", contrast);
+        Graphics.Blit(source, destination, myMaterial);
+    }
 
- 
+
 }
