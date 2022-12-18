@@ -1,8 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class Pyramid : MonoBehaviour
+public class Pyramid2 : MonoBehaviour
 {
     Vector3 V0, V1, V2, V3, V4;
     Vector3[] newVertices;
