@@ -6,11 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/kimhyewon.unity
+    path: Assets/Scenes/kim hye won/kimhyewon.unity
     guid: 5fd146377351e4db4985ca5c806303cb
   - enabled: 1
     path: Assets/Scenes/lkw_scene.unity
     guid: 3d201ed2f3ee64104a7f500edec649b2
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/UI_Scene.unity
+    guid: a878f27d33c4c4d3e8192b15663ecfbb
   - enabled: 1
     path: Assets/Scenes/Sangeun_Scene.unity
     guid: 7f83f38bd15e9ec4bb08ea5b61b9681f
