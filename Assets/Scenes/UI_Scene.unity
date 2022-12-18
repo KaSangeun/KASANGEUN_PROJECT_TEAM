@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657844, g: 0.49641222, b: 0.57481694, a: 1}
+  m_IndirectSpecularColor: {r: 0.44671863, g: 0.496575, b: 0.5750147, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -457,7 +457,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 1147, y: 278}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!114 &989409125
@@ -493,9 +493,22 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: '
-
-'
+  m_Text: "20210929 \uAE40\uD61C\uC6D0 \uC218\uD589 \uB0B4\uC5ED\n\uC52C: \uD06C\uB9AC\uC2A4\uB9C8\uC2A4
+    \uC52C (\uD604\uC2E4\uACF5\uAC04)\n\uC52C \uC804\uD658: lkw\uD074\uB9AD\uC2DC
+    lkw_scene\uC73C\uB85C \uC774\uB3D9\nkse\uD074\uB9AD\uC2DC kse_scene\uC73C\uB85C
+    \uC774\uB3D9\n[\uC9C0\uD615 \uB9CC\uB4E4\uAE30] Asset Store\uC5D0\uC11C \uC801\uC808\uD55C
+    \uAC74\uCD95\uBB3C \uC5D0\uC14B\uC744 \uB2E4\uC6B4\uB85C\uB4DC \uBC1B\uC544 \uC9C0\uD615\uC5D0
+    \uCD94\uAC00\uD568.\n\uC560\uB2C8\uBA54\uC774\uC158:\n 3D\uC624\uBE0C\uC81D\uD2B8\uC5D0
+    Transform\uCEF4\uD3EC\uB10C\uD2B8\uC640 \uAD00\uB828\uB41C \uC560\uB2C8\uBA54\uC774\uC158
+    \uAE30\uB2A5 \uCD94\uAC00\uD568(SantaHat)\nAnimator \uCEF4\uD3EC\uB10C\uD2B8
+    speed\uC18D\uC131 \uD0A4\uBCF4\uB4DC\uB85C \uC81C\uC5B4\uD568 (Gift_Box _(2)
+    1)\nAnimator\uCC3D\uC744 \uC0AC\uC6A9\uD558\uC5EC \uC560\uB2C8\uBA54\uC774\uC158
+    \uAD6C\uC131\n(Santa_1)\n3D\uC624\uBE0C\uC81D\uD2B8\uC5D0 \uD14D\uC2A4\uCCD0
+    \uCD94\uAC00\uD568(cake)\n\uCE74\uBA54\uB77C \uB2E4\uB8E8\uAE30 - \uAC70\uC6B8
+    \uB9CC\uB4E4\uAE30(mirror)\nImage Effect Shader \uC0AC\uC6A9\uD568\nInvert color
+    - invert camera\nDepth - depth camera\nGrayScale - gray camera\nBlend - blend
+    camera\nOverlay - overlay camera\nMulti-pass - mp camera\n\uBA85\uB3C4, \uB300\uBE55,
+    \uCC44\uB3C4 \uD6A8\uACFC - change camera\nUI - canvas\nMesh - Scripting - mesh_pyramid\n"
 --- !u!222 &989409126
 CanvasRenderer:
   m_ObjectHideFlags: 0
