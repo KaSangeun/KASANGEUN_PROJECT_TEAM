@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657815, g: 0.49641192, b: 0.57481617, a: 1}
+  m_IndirectSpecularColor: {r: 0.44671863, g: 0.496575, b: 0.5750147, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -422,7 +422,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 180}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!114 &989409125
@@ -458,9 +458,12 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: '
-
-'
+  m_Text: "20210929 \uAE40\uD61C\uC6D0 \uC218\uD589\uB0B4\uC5ED\n\uC52C: \uD06C\uB9AC\uC2A4\uB9C8\uC2A4
+    \uC52C(\uD604\uC2E4 \uACF5\uAC04)\n\uC52C \uC774\uB984: kimhyewon\n\uC560\uB2C8\uBA54\uC774\uC158,
+    UI, \uCE74\uBA54\uB77C\uB2E4\uB8E8\uAE30 - \uAC70\uC6B8\uB9CC\uB4E4\uAE30\nImage
+    Effect Shader, Mesh Scripting\n\uC52C \uC804\uD658\nkimhyewon -> lkw_scene :
+    \uBBF8\uB798\uB3C4\uC2DC \uADF8\uB9BC\nkimhyewon -> sangeun_scene: \uC6B0\uC8FC
+    \uC52C"
 --- !u!222 &989409126
 CanvasRenderer:
   m_ObjectHideFlags: 0
