@@ -23,7 +23,7 @@ public class invertcolor : MonoBehaviour
         if (myMaterial)
         {
             DestroyImmediate(myMaterial);
-        }    
+        }
     }
 
 }
