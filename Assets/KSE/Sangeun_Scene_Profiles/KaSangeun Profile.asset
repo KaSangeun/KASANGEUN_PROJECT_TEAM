@@ -38,7 +38,7 @@ MonoBehaviour:
     value: 1.2
   color:
     overrideState: 1
-    value: {r: 0.9245283, g: 0.8565037, b: 0.53552866, a: 1}
+    value: {r: 0.9339623, g: 0.91538787, b: 0.6907796, a: 1}
   ambientOnly:
     overrideState: 0
     value: 1
