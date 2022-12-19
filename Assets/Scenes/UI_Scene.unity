@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657844, g: 0.49641222, b: 0.57481694, a: 1}
+  m_IndirectSpecularColor: {r: 0.44671863, g: 0.496575, b: 0.5750147, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -509,7 +509,7 @@ MonoBehaviour:
     \uCD94\uAC00\uD568(cake)\n\uCE74\uBA54\uB77C \uB2E4\uB8E8\uAE30 - \uAC70\uC6B8
     \uB9CC\uB4E4\uAE30(mirror)\nImage Effect Shader \uC0AC\uC6A9\uD568\nInvert color
     - invert camera\nDepth - depth camera\nGrayScale - gray camera\nBlend - blend
-    camera\nOverlay - overlay camera\nMulti-pass - mp camera\n\uBA85\uB3C4, \uB300\uBE55,
+    camera\nOverlay - overlay camera\nMulti-pass - mp camera\n\uBA85\uB3C4, \uB300\uBE44,
     \uCC44\uB3C4 \uD6A8\uACFC - change camera\nUI - canvas\nMesh - Scripting - mesh_pyramid\n"
 --- !u!222 &989409126
 CanvasRenderer:
